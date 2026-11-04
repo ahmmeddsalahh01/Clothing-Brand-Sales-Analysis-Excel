@@ -45,16 +45,16 @@ Blank categories remain visible in some dashboard charts and slicers, including 
 
 ## Detailed key findings
 
- The Sales & Revenue dashboard reports **622,246 EGP** in sales, **12,926 units** sold, and an **average order value of 207 EGP**. The supporting pivot table gives a more precise average of about **207.42 EGP per order** across **3,000 orders**.
- Monthly sales range from about **46,207 EGP in April** to **57,190 EGP in July**. May (**56,334 EGP**) and February (**55,696 EGP**) are also among the stronger months. The pivot table contains **773.84 EGP** under a blank month category.
- Women is the largest category by sales at **156,357 EGP (25.13%)**, followed by Men at **138,758 EGP (22.30%)**. Kids is the smallest category at **100,610 EGP (16.17%)**. Accessories contribute **18.75%** and Shoes **17.66%**.
- Sneakers 1 is the leading product by sales at about **18,084 EGP**, roughly **2.9%** of total sales. Dress 2 leads the displayed top products by units, with **358 units**. Sales are spread across many products rather than dominated by one item.
- Luxor Plaza has the highest store sales at about **114,472 EGP**, followed by Mansoura Center at **110,337 EGP**. Downtown Cairo is lowest at about **93,166 EGP**, around **18.6% below** Luxor Plaza.
- North contributes about **296,281 EGP (47.6%)** of sales, South about **215,627 EGP (34.7%)**, and Delta about **110,337 EGP (17.7%)**. Delta's total is from the Mansoura Center store in the supplied dashboard data.
- Cash (**212,253 EGP**) and Credit Card (**209,202 EGP**) are the largest payment categories, each contributing about **34%**. Mobile Wallet accounts for about **21.5%**; **67,053 EGP (10.8%)** is categorized as “Not Mentioned.”
- The dashboard reports **150 customers** and **3,000 orders**, or **20 orders per customer** as an overall ratio. The top ten customers contribute about **103,301 EGP**, or **16.6%** of total sales. Khaled Hassan is highest among them at about **12,915 EGP**.
- The dashboard shows six stores with sales, while the source store list has seven records; it shows 50 products while the source product list has 56 records. These differences may mean some catalog entries had no sales, but unmatched IDs should be checked before assuming that.
- The written insights sheet contains store-order figures that differ from the supporting pivot tables and dashboard: it cites 473 orders for Downtown Cairo and 530 for Mansoura Center, while the dashboard shows 470 and 525. The narrative should be updated to match the current workbook.
+- The Sales & Revenue dashboard reports **622,246 EGP** in sales, **12,926 units** sold, and an **average order value of 207 EGP**. The supporting pivot table gives a more precise average of about **207.42 EGP per order** across **3,000 orders**.
+- Monthly sales range from about **46,207 EGP in April** to **57,190 EGP in July**. May (**56,334 EGP**) and February (**55,696 EGP**) are also among the stronger months. The pivot table contains **773.84 EGP** under a blank month category.
+- Women is the largest category by sales at **156,357 EGP (25.13%)**, followed by Men at **138,758 EGP (22.30%)**. Kids is the smallest category at **100,610 EGP (16.17%)**. Accessories contribute **18.75%** and Shoes **17.66%**.
+- Sneakers 1 is the leading product by sales at about **18,084 EGP**, roughly **2.9%** of total sales. Dress 2 leads the displayed top products by units, with **358 units**. Sales are spread across many products rather than dominated by one item.
+- Luxor Plaza has the highest store sales at about **114,472 EGP**, followed by Mansoura Center at **110,337 EGP**. Downtown Cairo is lowest at about **93,166 EGP**, around **18.6% below** Luxor Plaza.
+- North contributes about **296,281 EGP (47.6%)** of sales, South about **215,627 EGP (34.7%)**, and Delta about **110,337 EGP (17.7%)**. Delta's total is from the Mansoura Center store in the supplied dashboard data.
+- Cash (**212,253 EGP**) and Credit Card (**209,202 EGP**) are the largest payment categories, each contributing about **34%**. Mobile Wallet accounts for about **21.5%**; **67,053 EGP (10.8%)** is categorized as “Not Mentioned.”
+- The dashboard reports **150 customers** and **3,000 orders**, or **20 orders per customer** as an overall ratio. The top ten customers contribute about **103,301 EGP**, or **16.6%** of total sales. Khaled Hassan is highest among them at about **12,915 EGP**.
+- The dashboard shows six stores with sales, while the source store list has seven records; it shows 50 products while the source product list has 56 records. These differences may mean some catalog entries had no sales, but unmatched IDs should be checked before assuming that.
+- The written insights sheet contains store-order figures that differ from the supporting pivot tables and dashboard: it cites 473 orders for Downtown Cairo and 530 for Mansoura Center, while the dashboard shows 470 and 525. The narrative should be updated to match the current workbook.
 
 ## Advanced recommendations
 
