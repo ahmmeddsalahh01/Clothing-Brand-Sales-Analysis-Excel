@@ -66,3 +66,6 @@ Blank categories remain visible in some dashboard charts and slicers, including 
 6. **Grow mobile-wallet use and improve checkout records.** Mobile Wallet already represents about 21.5% of sales, while 10.8% is categorized as “Not Mentioned.” Make mobile wallet easy to choose and test a small, time-limited incentive only if its incremental profit exceeds its cost. Train staff and validate checkout steps so every transaction receives a consistent payment-method value.
 7. **Use the store leaders as operational benchmarks.** Compare practices at Luxor Plaza and Mansoura Center with Downtown Cairo, adjusting for footfall, operating days, store size, and local inventory. Delta's sales come from one store in this dataset, so treat expansion there as a hypothesis; assess rent, demand, and profitability in a small pilot before committing to another location.
 8. **Set a monthly action review.** Review sales, orders, units, average order value, gross margin, stockouts, and returns by category and store. Assign an owner and a target to each initiative, then continue, adjust, or stop it based on measured results.
+
+## Tools
+ Microsoft Excel (`.xlsx` source workbook)
