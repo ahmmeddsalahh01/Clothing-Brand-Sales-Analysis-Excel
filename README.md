@@ -28,12 +28,6 @@ The workbook's Data Model relates sales to products, customers, stores, and a ca
 
 **Practice-data note:** The customer names, email addresses, and phone numbers in the raw workbook are fictional generated records, not real customer contact details.
 
-## Data cleaning
-
-The workbook includes Power Query connections and a Data Model. The source tables contain inconsistent formats and labels—for example, payment method casing and date formats vary. The dashboards show consolidated payment categories such as Cash and Credit Card, but the exact transformation steps are not documented here.
-
-Blank categories remain visible in some dashboard charts and slicers, including brand, month, and city. Review whether these represent missing source values, unmatched relationships, or intentionally unassigned records. Document any standardization, duplicate handling, missing-value treatment, and date or price conversions in the workbook before treating the figures as fully validated.
-
 ## Dashboard pages
 
 1. **Sales & Revenue**  total sales, quantity sold, average order value, monthly sales, sales by store, category, and region; includes brand and month slicers.
